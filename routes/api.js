@@ -31,8 +31,5 @@ router.get("/api/transaction", (req, res) => {
     });
 });
 
-router.get("/", (req, res) => {
-  res.sendFile("../public/index.html")
-})
 
 module.exports = router;
