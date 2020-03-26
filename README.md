@@ -19,10 +19,23 @@ This application allows users to track their budget both online and offline
 
 ## Known Bugs
 ​
-* Information entered offline is not saved when returning to online mode (Did we learn this?js )
+* Refreshing while offline doesn't show new info, but it is saved and shows up when returning to online
 ​
 ## Technologies Used
 ​
+* IndexedDB
+
+* Mongoose
+
+* Heroku.js
+
+* Express
+
+* Node.js
+
 * Javascript
 
-* SQL
+* HTML
+
+* CSS
+
